@@ -1,1 +1,1 @@
-help to dtetct whether a message is spam or ham
+help to detect whether a message is spam or ham
